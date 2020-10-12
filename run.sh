@@ -1,0 +1,1 @@
+docker run --rm -it --gpus all -v ~/winhome/nn:/home/ubuntu/nn -w /home/ubuntu/nn  mydevenv:latest bash
